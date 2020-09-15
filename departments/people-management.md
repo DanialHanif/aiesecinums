@@ -6,4 +6,5 @@ description: Get to know what is 'People Management' department.
 
 ## Introduction
 
-People Management is a department where People Managers (PM) take good care of members wellbeing and recruit new members.
+People Management is a department where People Managers \(PM\) take good care of members wellbeing and recruit new members.
+
