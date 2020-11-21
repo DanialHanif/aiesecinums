@@ -23,3 +23,11 @@
   * [Customer Experience \(CXP\)](departments/outgoing-global-volunteering-ogv/customer-experience-cxp.md)
   * [Sales](departments/outgoing-global-volunteering-ogv/sales.md)
 
+## STRUCTURE
+
+* [AIESEC International](structure/aiesec-international.md)
+
+## External Resources
+
+* [Links](external-resources/links.md)
+

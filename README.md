@@ -6,7 +6,7 @@ description: A knowledge hub for us to learn and re-learn.
 
 ## Knowledge Hub
 
-The purpose of this hub is to provide detailed information for members of AIESEC to improve their knowledge and to provide reference for guidance during their terms in AIESEC. This hub is also useful for newbies to know more about their job description and perform better at their tasks.
+The purpose of this hub is to provide detailed information for members of AIESEC in UMS to improve their knowledge and to provide reference for guidance during their terms in AIESEC. This hub is also useful for newbies to know more about their job description and perform better at their tasks.
 
 ## Contribution
 

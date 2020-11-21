@@ -10,7 +10,7 @@ Acronyms are widely used in AIESEC to discuss matters efficiently without spendi
 
 ### Structure
 
-* **AI** — _AIESEC International_
+* \*\*\*\*[**AI** — _AIESEC International_](../structure/aiesec-international.md)\_\_
 * **PAI** — _President of AIESEC International_
 * **MC** — _Member Committee_
 * **MCP** — _Member Committee President_
